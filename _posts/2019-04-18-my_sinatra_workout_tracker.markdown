@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Sinatra Workout Tracker"
-date:       2019-04-19 01:07:13 +0000
+date:       2019-04-18 21:07:13 -0400
 permalink:  my_sinatra_workout_tracker
 ---
 
@@ -20,5 +20,5 @@ Overall I had a fun time working on this project. It’s far from perfect and I 
 
 I've rambled on long enough. Thanks for reading if you're still here and if you want to check out my project, the link is below:
 
-[Github Repo](http://https://github.com/jmei403/sinatra-workout-tracker)
+[Github Repo](http://github.com/jmei403/sinatra-workout-tracker)
 
