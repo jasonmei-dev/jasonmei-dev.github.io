@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "*“Train Yourself To Let Go...”* - Yoda"
-date:       2020-06-02 21:51:31 +0000
+date:       2020-06-02 17:51:32 -0400
 permalink:  train_yourself_to_let_go_-_yoda
 ---
 
